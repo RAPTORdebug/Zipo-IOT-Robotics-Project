@@ -36,3 +36,16 @@ This project demonstrates how robotics and embedded systems can be used to impro
 * Improve battery life
 * Add more advanced sensors
 * Enhance movement accuracy and drift of the sensors(MPU6050)
+
+## Images 
+
+Circuit Diagram
+
+<img width="636" height="676" alt="circuit" src="https://github.com/user-attachments/assets/6367a24b-5247-4db0-a4bc-00615613aace" />
+
+Demo
+
+https://github.com/user-attachments/assets/4529b874-da63-4ec6-a81e-c300081fbe5e
+
+
+
